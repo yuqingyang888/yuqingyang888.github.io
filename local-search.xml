@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>网址</title>
-    <link href="/2020/01/26/%E7%BD%91%E5%9D%80/"/>
-    <url>/2020/01/26/%E7%BD%91%E5%9D%80/</url>
+    <title>资源类网站汇总</title>
+    <link href="/%E7%BD%91%E5%9D%80/"/>
+    <url>/%E7%BD%91%E5%9D%80/</url>
     
-    <content type="html"><![CDATA[<p><a href="http://aria2c.com" target="_blank" rel="noopener">下载监控</a><br>IP: 172.23.175.103</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<p><a href="/article_img/3.jpg" title="avatar" class="gallery-item"><img src="/article_img/3.jpg" srcset="/img/loading.gif" alt="avatar"></a><br><a href="/img/avatar.jpg" title="avatar" class="gallery-item"><img src="/img/avatar.jpg" srcset="/img/loading.gif" alt="avatar"></a><br><a href="http://aria2c.com" target="_blank" rel="noopener">下载监控</a> IP: 172.23.175.103</p><h2 id="影视-软件"><a href="#影视-软件" class="headerlink" title="影视/软件"></a>影视/软件</h2><p><a href="http://www.zmz2019.com/" target="_blank" rel="noopener">人人影视</a><br><a href="https://www.52pojie.cn/" target="_blank" rel="noopener">吾爱破解</a><br><a href="https://www.atuo.store/product/" target="_blank" rel="noopener">Atuo小店</a><br><a href="https://fkz.me/product/" target="_blank" rel="noopener">发卡者小店</a></p><h2 id="文档"><a href="#文档" class="headerlink" title="文档"></a>文档</h2><p><a href="http://mmdocx.com/" target="_blank" rel="noopener">百度文库下载</a><br><a href="https://pan.baidu.com/s/1m26GBk0iI3NEquXXFkSG4A?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=#list/path=%2F&parentPath=%2Fsharelink2980851355-525146602638199" target="_blank" rel="noopener">纽约客</a></p><h2 id="搜索"><a href="#搜索" class="headerlink" title="搜索"></a>搜索</h2><p><a href="http://hao.199it.com/" target="_blank" rel="noopener">数据搜索</a><br><a href="https://search.chongbuluo.com/" target="_blank" rel="noopener">快搜</a><br><a href="http://www.pansou.com/" target="_blank" rel="noopener">盘搜</a></p></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
     
     
     
@@ -24,8 +24,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="/2020/01/26/test-my-site/"/>
-    <url>/2020/01/26/test-my-site/</url>
+    <link href="/test-my-site/"/>
+    <url>/test-my-site/</url>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -37,8 +37,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/2020/01/26/hello-world/"/>
-    <url>/2020/01/26/hello-world/</url>
+    <link href="/hello-world/"/>
+    <url>/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
